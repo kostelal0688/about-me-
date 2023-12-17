@@ -10,14 +10,22 @@ I was born in Greece but my parents are Albanian. So when I was 3 years old I mo
 
 ---
 
-Schedule
+  Schedule
+
     1. Chemistry
+
     2. Ap World History
+
     3. Big History Project Honers
+
     4. English
+
     5. SEP
+
     6. Lunch
+
     7. Spanish
+    
     8. Algebra 2
 
 ---
