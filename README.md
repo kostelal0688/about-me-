@@ -25,12 +25,14 @@ I was born in Greece but my parents are Albanian. So when I was 3 years old I mo
     6. Lunch
 
     7. Spanish
-    
+
     8. Algebra 2
 
 ---
 
 * Portfolio
    * https://kostelal0688.github.io/
+
+   Reviewed by Vanessa
 
 
